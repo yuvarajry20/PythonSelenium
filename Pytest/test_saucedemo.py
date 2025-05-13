@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium import webdriver
 from Utility import excelReader
 
-@pytest.mark.parametrize("username,password", excelReader.get_data("ExcelFiles/logindata.xlsx", "Sheet2"))
+@pytest.mark.parametrize("username,password", excelReader.get_data("ExcelFiles/loginData.xlsx", "Sheet2"))
 @pytest.mark.usefixtures("setup_and_teardown")
 class TestLogin2:
     def test_validation1(self,username,password):
