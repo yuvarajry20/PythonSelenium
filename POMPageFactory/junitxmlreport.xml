@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="5.263" timestamp="2025-05-14T16:02:04.345636+05:30" hostname="YUVARAJ_UV"><testcase classname="tests.test_search.TestSearch" name="test_search_for_valid_product" time="5.196" /></testsuite></testsuites>
