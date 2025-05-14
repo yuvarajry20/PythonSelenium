@@ -1,0 +1,3 @@
+[32mINFO    [0m test_search_for_valid_product:test_search.py:14 Entering product into search box
+[32mINFO    [0m test_search_for_valid_product:test_search.py:16 Clicking search button
+[32mINFO    [0m test_search_for_valid_product:test_search.py:19 Displaying status of valid product
